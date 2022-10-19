@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MapBiTeam</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="api_key">AIzaSyDjx5msAbZePQLNg-CVLx3MoN4ij74ppLo</string>
+</resources>

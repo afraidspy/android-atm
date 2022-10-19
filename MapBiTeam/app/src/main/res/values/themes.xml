@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.MapBiTeam" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+    <style name="Button">
+        <item name="android:width">150dp</item>
+        <item name="android:height">48dp</item>
+        <item name="cornerRadius">73dp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:icon">@drawable/ic_baseline_search_24</item>
+        <item name="android:background">@color/azul</item>
+    </style>
+
+
+</resources>
